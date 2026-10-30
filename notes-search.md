@@ -2,7 +2,7 @@
 
 ## Overview
 The search and filtering feature helps users find their saved notes quickly and easily.
-
+Users can search notes by title or keywords and filter them by category.
 ## Features
 
 1. **Search Notes:** Users can search notes using their title or keywords.
